@@ -3,11 +3,11 @@ Pytorch implementation of " Deep hyperspectral image super-resolution with trans
 
 
 ## Train on CAVE
-'python main.py'
+`python main.py`
 
 
 ## Test on CAVE
-'python test.py'
+`python test.py`
 
 ## Citation
 ```
